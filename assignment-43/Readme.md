@@ -1,4 +1,4 @@
-# This projects demonstrates training a Multi Layer Perceptron and Convolutional Neural Network (CNN) to classify Mnist and Cifar datasets.
+# This projects demonstrates training a Multi Layer Perceptron(MLP) and Convolutional Neural Network (CNN) to classify Mnist and Cifar datasets.
 ### Result :
 | Dataset | MLP (Machine Learning) | CNN + MLP (Deep Learning)
 |     :---:      |  :---: | :---:
