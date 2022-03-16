@@ -14,5 +14,5 @@
 ## Inference
 
 ```
-python3 .py --input ./input/1.jpg 
+python3 inference_of_sheykh_rec.py --input ./input/1.jpg 
 ```
