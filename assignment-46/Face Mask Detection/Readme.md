@@ -1,4 +1,5 @@
-## This model would detect mask on face with the large kaggle dataset.
+## This model would detect mask on face by the large kaggle dataset.
+You can see the output result on inference.py file written by QT.
 |Train Acuuracy  | Val Accuracy | Test Accuracy|
 |     :---:      |  :---: | :---:
 |99% |99%|99% |
