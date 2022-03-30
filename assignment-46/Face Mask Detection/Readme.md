@@ -1,3 +1,4 @@
+## This model would detect mask on face with the large kaggle dataset it has.
 |Train Acuuracy  | Val Accuracy | Test Accuracy|
 |     :---:      |  :---: | :---:
 |99% |99%|99% |
