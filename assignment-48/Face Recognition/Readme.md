@@ -9,4 +9,4 @@ To run the inference.py use the below command:
    - ```
      python inference.py --input_photo 2.jpg --input_weights face_recognition.h5
       
- - [Check out WandB result](https://wandb.ai/mehrdadnajafi/faceRecognition_tensorflowExpert)
+ - [Check out WandB result](https://wandb.ai/mahdis-esmaeelian/FaceMask%20Detection?workspace=user-mahdis-esmaeelian)
