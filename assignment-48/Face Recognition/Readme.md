@@ -4,7 +4,8 @@
 | Train Loss | Val Loss | 
 |0.0087   |0.027|
 
-  
+
+To run the inference.py use the below command:  
    - ```
      python inference.py --input_photo 2.jpg --input_weights face_recognition.h5
       
