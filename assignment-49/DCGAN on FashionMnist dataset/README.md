@@ -5,4 +5,4 @@ images which were used from the Fashion MNIST dataset. The model was trained on 
 
 Below are some results from the training process:
  
-<img width="300" height="300" src="https://github.com/mahdisesmaeelian/Python-Deep-Learning/blob/main/assignment-49/dcgan.gif"/>
+<img width="300" height="300" src="https://github.com/mahdisesmaeelian/Python-Deep-Learning/blob/main/assignment-49/DCGAN%20on%20FashionMnist%20dataset/dcgan.gif"/>
